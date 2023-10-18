@@ -1,4 +1,4 @@
 ---
 title: "MY GIT BLOG"
-date: 2002-12-20
+date: 2023-10-18
 ---
